@@ -8,7 +8,7 @@ Many of my AHK scripts are very much amateurish, my day job is 3D design and not
 ## personal working scripts
 | script | details | version |  
 |:-----|:---|:------------:| 
-| [old.copy](https://github.com/msokoljr/old.copy) | copies selected file into an "old" folder, appends last modified date to filename | 1.0 |
+| [exCopy](https://github.com/msokoljr/ahk/blob/main/exCopy) | copies selected file into an "old" folder, appends last modified date to filename | 0.9b |
 
 &nbsp;
 
